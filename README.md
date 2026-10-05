@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **debjeet450@gmail.com**
 
-- ⚡ Fun fact **I think i am a good boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
