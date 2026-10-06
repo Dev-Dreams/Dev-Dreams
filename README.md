@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Self Project**
 
-- 🌱 I’m currently learning **ReactJs, Nextjs, TailwindCSS**
+- 🌱 I’m currently learning **ReactJs, Nextjs, ASP.Net**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
